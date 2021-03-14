@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Weather-Python/static/css/main.ca52fb45.chunk.css",
+    "main.js": "/Weather-Python/static/js/main.44703dba.chunk.js",
+    "main.js.map": "/Weather-Python/static/js/main.44703dba.chunk.js.map",
+    "runtime-main.js": "/Weather-Python/static/js/runtime-main.8ed0ce8d.js",
+    "runtime-main.js.map": "/Weather-Python/static/js/runtime-main.8ed0ce8d.js.map",
+    "static/js/2.a0e43bb3.chunk.js": "/Weather-Python/static/js/2.a0e43bb3.chunk.js",
+    "static/js/2.a0e43bb3.chunk.js.map": "/Weather-Python/static/js/2.a0e43bb3.chunk.js.map",
+    "index.html": "/Weather-Python/index.html",
+    "static/css/main.ca52fb45.chunk.css.map": "/Weather-Python/static/css/main.ca52fb45.chunk.css.map",
+    "static/js/2.a0e43bb3.chunk.js.LICENSE.txt": "/Weather-Python/static/js/2.a0e43bb3.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Weather-Python/static/media/weather.0ab23b74.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8ed0ce8d.js",
+    "static/js/2.a0e43bb3.chunk.js",
+    "static/css/main.ca52fb45.chunk.css",
+    "static/js/main.44703dba.chunk.js"
+  ]
+}
